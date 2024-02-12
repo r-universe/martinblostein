@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "ltmix"]
 	path = ltmix
-	url = https://github.com/cran/ltmix
+	url = https://github.com/martinblostein/ltmix
